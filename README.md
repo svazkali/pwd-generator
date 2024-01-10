@@ -18,10 +18,8 @@ Asegúrate de tener Python instalado en tu sistema. El código fue probado en Py
 Ejecuta el siguiente comando en la terminal:
 
 ```bash
-python nombre_del_script.py
+python pwd.py
 ```
-
-Sustituye "nombre_del_script.py" con el nombre del archivo que contiene el código.
 
 ## Uso
 
